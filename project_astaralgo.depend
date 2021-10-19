@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1627170609 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1627509592 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo\frmap.c
+	<stdio.h>
+	"frmap.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"status.h"
+
+1627510057 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo\mainfrmap.c
+	<stdio.h>
+	<stdlib.h>
+	"frmap.h"
+	<string.h>
+	"status.h"
+
+1627508303 c:\users\isanfoweb\workspace\c_projects\project_astaralgo\frmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+
+1627506571 c:\users\isanfoweb\workspace\c_projects\project_astaralgo\status.h
+
+1627506599 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo\status.c
+	"status.h"
+
+1627509592 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo_issaka\frmap.c
+	<stdio.h>
+	"frmap.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"status.h"
+
+1627508303 c:\users\isanfoweb\workspace\c_projects\project_astaralgo_issaka\frmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+
+1627511542 c:\users\isanfoweb\workspace\c_projects\project_astaralgo_issaka\status.h
+
+1627511610 source:c:\users\isanfoweb\workspace\c_projects\project_astaralgo_issaka\status.c
+	"status.h"
+

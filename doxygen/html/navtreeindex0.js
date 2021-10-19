@@ -1,0 +1,24 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"files.html":[1,0],
+"frmap_8h_source.html":[1,0,0],
+"index.html":[],
+"pages.html":[],
+"status_8h_source.html":[1,0,1],
+"structlistcity.html":[0,0,0],
+"structlistcity.html#a1fe4ce518f2a5b37d1cead5b4947a5fa":[0,0,0,0],
+"structlistcity.html#aadcc34a1da578ab1e3bb0aa952593349":[0,0,0,4],
+"structlistcity.html#ac063bd461a50330165ee413ed067fd72":[0,0,0,1],
+"structlistcity.html#ac419f80de73d9a23a06f74e9a831deda":[0,0,0,2],
+"structlistcity.html#aedd80f55f7ddd9dec7b5fc3bb9e4d9ba":[0,0,0,3],
+"structlistitinerary.html":[0,0,1],
+"structlistitinerary.html#a2997181b41be5728a4b1e6101d0cca5c":[0,0,1,1],
+"structlistitinerary.html#a89ae98cfd84540037859a761095448ba":[0,0,1,0],
+"structlistitinerary.html#a9800deb9529e8048def5219bce04f4aa":[0,0,1,2],
+"structlistneighbor.html":[0,0,2],
+"structlistneighbor.html#a57ed671d224d3a6ddc4d9c338633c48d":[0,0,2,0],
+"structlistneighbor.html#a7693bd485379e7470f10121bc7feea20":[0,0,2,2],
+"structlistneighbor.html#a793010f25c3cc5b671c2fb5b862636bd":[0,0,2,1]
+};
